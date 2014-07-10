@@ -1,0 +1,21 @@
+# NetBeans project private files
+nbproject/private
+
+# Ignore Composer installed files
+vendor
+wp
+
+# Uploads, etc
+app/uploads
+app/upgrade
+
+# Plugins
+app/plugins/*
+!app/plugins/.gitkeep
+
+# Themes
+app/themes/*
+!app/themes/.gitkeep
+!app/themes/halfje-bruin
+!app/themes/hb-gumbo
+!app/themes/underscore-hb
