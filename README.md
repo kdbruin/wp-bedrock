@@ -8,3 +8,4 @@ A base for developing a new WordPress site. This includes
 - site-specific environment variables supported through PHPdotenv
 - a ANT build file for deployment based on rsync and SSH
 
+The default locale for the new site is nl_NL.

@@ -16,6 +16,3 @@ app/plugins/*
 # Themes
 app/themes/*
 !app/themes/.gitkeep
-!app/themes/halfje-bruin
-!app/themes/hb-gumbo
-!app/themes/underscore-hb
