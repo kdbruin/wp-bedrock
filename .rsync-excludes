@@ -1,16 +1,10 @@
 # exclude any files that should not be uploaded to the webserver
 - .DS_Store
-- .listing
 - .git*
 - .rsync-excludes
-- .lftp-mirror
 - .env*
-- .externalToolBuilders
-- .project
-- .settings
-- build.ant
+- build.xml
 - composer.json
 - composer.lock
-- nbproject
 - app/upgrade
 - app/uploads
